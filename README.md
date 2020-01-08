@@ -57,5 +57,5 @@ python3 jbossScan.py
 
 ## 示例 ##
 
-![](https://github.com/GGyao/jbossScan/blob/master/demo.png)
-123
+![](demo.png)
+
