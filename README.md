@@ -53,6 +53,7 @@ admin/password
 
 python3 jbossScan.py 
 
+(将目标放入target.txt中，一行一个)
 
 
 ## 示例 ##
